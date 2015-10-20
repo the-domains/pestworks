@@ -1,4 +1,4 @@
-name: null
+name: pestworks
 favicon: null
 layout_spectrum: 0.7347689773887396
 typography_spectrum: 0.8971602469682693
@@ -15,9 +15,14 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
+  brandColors:
+    - '#ffffff'
+    - '#363636'
+    - '#209346'
+    - '#c0c0c0'
+    - '#8e8e8e'
   brandStrength: 0.20626517641358078
-  lightness: 0.2756925425492227
-  saturation: 0.24834029166959226
-  rhythmicContrast: 0.8654028370510787
+  lightness: 0.5
+  saturation: 0.4375
+  rhythmicContrast: 0.75
 purpose: []
