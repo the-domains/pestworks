@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[pestworks]]></title>
         <description><![CDATA[pestworks]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/pestworks/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 20 Oct 2015 23:31:48 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 20 Oct 2015 23:53:01 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/pestworks/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Pestworks - Coming Soon!]]></title>
             <description><![CDATA[<h1>Pestworks - Coming Soon!</h1>]]></description>
-            <link>undefinedpestworks-coming-soon/index.html</link>
+            <link>https://thegrid.ai/pestworks/pestworks-coming-soon/index.html</link>
             <guid isPermaLink="false">b9a0d882-3bbb-4713-827a-9090530b7b5d</guid>
-            <pubDate>Tue, 20 Oct 2015 23:31:12 GMT</pubDate>
+            <pubDate>Tue, 20 Oct 2015 23:53:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
