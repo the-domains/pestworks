@@ -1,7 +1,7 @@
 name: pestworks
 favicon: null
 layout_spectrum: 0.51346
-typography_spectrum: 0
+typography_spectrum: 0.5
 title: 'Pest Works - Software that Works for the Pest Control Industry, Finally'
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#c0c0c0'
     - '#8e8e8e'
   brandStrength: 0.625
-  lightness: 0.5
-  saturation: 0.5
+  lightness: 0.75
+  saturation: 0.25
   rhythmicContrast: 0.75
 purpose: []
